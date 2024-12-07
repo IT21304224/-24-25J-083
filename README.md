@@ -2,6 +2,8 @@
 
 Fitflow: Advance Fitness Trainer
 
+Github Repository Link - https://github.com/IT21304224/24-25J-083.git
+
 Component1 - AI Driven meal planner and calorie calculator.
 
 This function leverages advanced image recognition technology to analyze meal photos and accurately estimate calorie content. It eliminates the need for manual food logging, offering users a seamless experience. With AI-driven algorithms, the feature dynamically generates personalized meal plans tailored to individual dietary needs, health goals, and preferences. By providing real-time insights and adaptive recommendations, it empowers users to make healthier dietary choices. The function is designed to enhance user engagement, dietary adherence, and overall well-being. Its intuitive interface ensures accessibility, making it an ideal tool for promoting sustainable health habits.
