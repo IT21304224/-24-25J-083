@@ -21,6 +21,10 @@ Component 4 - captured the body measurement & used that measurement to draw conc
 Reporting detailed body measurements every month. And the inclusion of his chaya image. 'Biacromial diameter (shoulder width)', 'Pelvic width', 'Ankle diameter', 'Shoulder circumference', 'Chest circumference', 'Waist circumference', 'Thigh circumference', 'Bicep circumference', and Obtain measurements such as calf girth. '.Fitness Level Assessment: Review data collected each month to see how fit a player is and display it as a comparison.Trend Analysis: Identify trends and patterns from player fitness data over time using algorithms. Identify opportunities for improvement and deterioration.Feedback and Recommendations: Provide personalized feedback from player biographies and monthly analysis. Recommend specific exercise, nutrition and recovery tips to improve an athlete's fitness level.
 
 
+Overall System Diagram.
+
+
+
 ![Screenshot 2024-12-07 201009](https://github.com/user-attachments/assets/39575848-bd2a-43e4-aa52-7c4766829603)
 
 
